@@ -156,11 +156,10 @@ States clustered into 4 tiers using 9 health indicators:
 
 | Model | Accuracy |
 |---|---|
-| Logistic Regression | — |
-| Random Forest | — |
-| XGBoost | — |
+| Logistic Regression | 0.5556 |
+| Random Forest | 0.7778 |
+| XGBoost | 0.5556 |
 
-*(Fill in your actual scores from Cell 27 output)*
 
 ### Feature Importance
 Random Forest and SHAP analysis identify which indicators
