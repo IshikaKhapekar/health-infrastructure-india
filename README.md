@@ -266,5 +266,4 @@ Comprehensive health system failure across indicators.
 ## 📁 Author
 
 **Ishika Khapekar**
-Data Analysis | Machine Learning | Public Health Analytics
-[LinkedIn] | [GitHub]
+
